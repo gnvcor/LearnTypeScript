@@ -1,7 +1,7 @@
 ##LearnTypeScript
 
-Изучаю `TypeScript` и конспектирую изученное.
+РР·СѓС‡Р°СЋ `TypeScript` Рё РєРѕРЅСЃРїРµРєС‚РёСЂСѓСЋ РёР·СѓС‡РµРЅРЅРѕРµ.
 
-####Ссылки на материал
+####РЎСЃС‹Р»РєРё РЅР° РјР°С‚РµСЂРёР°Р»
 1. https://www.typescriptlang.org/docs/home.html
 2. https://www.youtube.com/watch?v=nyIpDs2DJ_c
